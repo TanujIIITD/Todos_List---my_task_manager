@@ -1,0 +1,5 @@
+step 1: open vs code.
+step 2: open folder in it.
+step 3: write "npm start" in terminal.
+Step 4: Wait, your todos list web app running.
+step 4: now, stay organized and manage your tasks effectively...
